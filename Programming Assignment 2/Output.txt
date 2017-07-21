@@ -1,0 +1,229 @@
+Player 1 Name: Andrew
+Player 2 Name: Gaston
+Player 1 Token Color (B or W): B
+Player 2 Token Color (B or W): W
+Player to Move Next (1 or 2): 1
+
+Andrew Enter Your Move (B/P BD): 1/1 4l
+
+CURRENT BOARD - 
++---+---+
+|b..|...|
+|...|...|
+|...|...|
++---+---+
+|...|...|
+|...|...|
+|...|...|
++---+---+
+
+Gaston's Move (B/P BD): 
+
+CURRENT BOARD - 
++---+---+
+|...|...|
+|w..|...|
+|b..|...|
++---+---+
+|...|...|
+|...|...|
+|...|...|
++---+---+
+
+Andrew Enter Your Move (B/P BD): 3/1 4l
+
+CURRENT BOARD - 
++---+---+
+|...|...|
+|w..|...|
+|b..|...|
++---+---+
+|b..|...|
+|...|...|
+|...|...|
++---+---+
+
+Gaston's Move (B/P BD): 
+
+CURRENT BOARD - 
++---+---+
+|...|...|
+|...|...|
+|wwb|...|
++---+---+
+|b..|...|
+|...|...|
+|...|...|
++---+---+
+
+Andrew Enter Your Move (B/P BD): 2/7 4l
+
+CURRENT BOARD - 
++---+---+
+|...|...|
+|...|...|
+|wwb|b..|
++---+---+
+|b..|...|
+|...|...|
+|...|...|
++---+---+
+
+Gaston's Move (B/P BD): 
+
+CURRENT BOARD - 
++---+---+
+|..b|...|
+|..w|...|
+|w.w|b..|
++---+---+
+|b..|...|
+|...|...|
+|...|...|
++---+---+
+
+Andrew Enter Your Move (B/P BD): 1/8 4L
+
+CURRENT BOARD - 
++---+---+
+|..b|...|
+|..w|...|
+|wbw|b..|
++---+---+
+|b..|...|
+|...|...|
+|...|...|
++---+---+
+
+Gaston's Move (B/P BD): 
+
+CURRENT BOARD - 
++---+---+
+|bww|...|
+|..b|...|
+|w.w|b..|
++---+---+
+|b..|...|
+|...|...|
+|...|...|
++---+---+
+
+Andrew Enter Your Move (B/P BD): 3/1 4L
+INVALID MOVE
+Andrew Enter Your Move (B/P BD): 2/1 4L
+
+CURRENT BOARD - 
++---+---+
+|bww|b..|
+|..b|...|
+|w.w|b..|
++---+---+
+|b..|...|
+|...|...|
+|...|...|
++---+---+
+
+Gaston's Move (B/P BD): 
+
+CURRENT BOARD - 
++---+---+
+|wbw|bw.|
+|w..|...|
+|b.w|b..|
++---+---+
+|b..|...|
+|...|...|
+|...|...|
++---+---+
+
+Andrew Enter Your Move (B/P BD): 3/4 4L
+
+CURRENT BOARD - 
++---+---+
+|wbw|bw.|
+|w..|...|
+|b.w|b..|
++---+---+
+|b..|...|
+|b..|...|
+|...|...|
++---+---+
+
+Gaston's Move (B/P BD): 
+
+CURRENT BOARD - 
++---+---+
+|w.w|bww|
+|b..|...|
+|wwb|b..|
++---+---+
+|b..|...|
+|b..|...|
+|...|...|
++---+---+
+
+Andrew Enter Your Move (B/P BD): 3/7 4L
+
+CURRENT BOARD - 
++---+---+
+|w.w|bww|
+|b..|...|
+|wwb|b..|
++---+---+
+|b..|...|
+|b..|...|
+|b..|...|
++---+---+
+
+Gaston's Move (B/P BD): 
+
+CURRENT BOARD - 
++---+---+
+|w.b|bww|
+|w.w|...|
+|wbw|b..|
++---+---+
+|b..|...|
+|b..|...|
+|b..|...|
++---+---+
+
+Andrew Enter Your Move (B/P BD): 4/1 2L
+
+CURRENT BOARD - 
++---+---+
+|w.b|w..|
+|w.w|w..|
+|wbw|b.b|
++---+---+
+|b..|b..|
+|b..|...|
+|b..|...|
++---+---+
+
+Gaston's Move (B/P BD): 
+
+CURRENT BOARD - 
++---+---+
+|bww|w..|
+|w.b|w..|
+|www|b.b|
++---+---+
+|b..|b..|
+|b..|...|
+|b..|...|
++---+---+
+
+Andrew Enter Your Move (B/P BD): 4/2 2L
+
+CURRENT BOARD - 
++---+---+
+|bww|..b|
+|w.b|...|
+|www|wwb|
++---+---+
+|b..|bb.|
+|b..|...|
+|b..|...|
++---+---+
+Gaston - Is The Winner!

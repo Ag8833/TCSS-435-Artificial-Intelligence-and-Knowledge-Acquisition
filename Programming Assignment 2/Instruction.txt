@@ -1,0 +1,7 @@
+1. Enter your desired name, computer name will be generated as Gaston but can be changed.
+2. Enter your desired color, either B or W. Enter it exactly as "b/w" or "B/W" with no spaces or special characters. Computer will be assigned to the opposite color.
+3. Enter which player will move first, 1 for you or 2 for the computer. Enter it exactly as the number 1 or 2 with no spaces or special characters.
+4. Enter your desired move in the format of (B/P BD). If the move is already taken then it will prompt you to enter a new move until a valid move is chosen. Enter it in the exact format of (B/P BD), the direction can either be upper or lower case but there can not be extra spaces or special characters.
+5. Repeat until a winner is found (hopefully you)!
+
+You can change the depth evaluated by changing the 3rd value on line 91, and then changing the value on lines 950 and 978 to that same value.
